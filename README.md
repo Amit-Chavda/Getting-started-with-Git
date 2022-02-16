@@ -11,15 +11,15 @@ ___
 
 ### [Types of version control system](https://medium.com/@abeythilakeudara3/version-control-system-cabd8d120986#:~:text=The%20version%20control%20system%20can,resolving%20on%20the%20source%20code.)
 >VCS has several types
-___
+
 ### [Terminologies in Git](https://medium.com/version-control-system/basic-git-terminologies-867710607422)
 >Better to know about terms before getting into it
-
+___
 ## Official Documentaion
 
 ### [Github Reference Manual](https://git-scm.com/docs)
->Official documentaion on gihub.
-___
+>Official documentaion on github.
+
 ### [Github Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet/)
 >What and how on gihub!
 
@@ -27,14 +27,17 @@ ___
 ### [Visual Cheatsheet Github](https://ndpsoftware.com/git-cheatsheet.html)
 >Picturize the git commands
 
+___
 ## Enviroment setup
 ### [Download and install git](https://git-scm.com/downloads)
 >Download and install git.
 
+___
 ## Github pages
 ### [Explore Github pages](https://pages.github.com/)
 >Host open source static website free
 
 
-
+___
 ##### Never stop learning,find the blogs and read them out to know more and more...
+___
