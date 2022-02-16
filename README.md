@@ -40,5 +40,5 @@ ___
 
 
 ___
-##### Never stop learning,find the blogs and read them out to know more and more...
+##### Never stop learning, find the blogs, read them out and start practicing to know more and more...
 ___
