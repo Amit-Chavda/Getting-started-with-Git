@@ -23,6 +23,7 @@ ___
 ### [Github Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet/)
 >What and how on gihub!
 
+___
 ## Visualize git commands
 ### [Visual Cheatsheet Github](https://ndpsoftware.com/git-cheatsheet.html)
 >Picturize the git commands
