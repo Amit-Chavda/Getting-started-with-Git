@@ -24,6 +24,9 @@ ___
 >What and how on gihub!
 
 ___
+### [Git short note](https://education.github.com/git-cheat-sheet-education.pdf)
+>Revise it
+___
 ## Visualize git commands
 ### [Visual Cheatsheet Github](https://ndpsoftware.com/git-cheatsheet.html)
 >Picturize the git commands
