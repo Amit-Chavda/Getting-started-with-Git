@@ -37,6 +37,12 @@ ___
 >Download and install git.
 
 ___
+## Looking for Git GUI toools?
+>Make git operations easier with Git GUI tools. Here are some preferred GUI tools for git.
+
+### [See all recommanded GUIs](https://git-scm.com/downloads/guis)
+
+___
 ## Github pages
 ### [Explore Github pages](https://pages.github.com/)
 >Host open source static website free
