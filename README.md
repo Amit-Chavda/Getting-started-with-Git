@@ -47,6 +47,10 @@ ___
 ### [Explore Github pages](https://pages.github.com/)
 >Host open source static website free
 
+___
+## Videos
+>Bored reading? Let's watch a video...
+### [feeCodeCamp git tutorial](https://www.youtube.com/watch?v=Uszj_k0DGsg)
 
 ___
 ##### Never stop learning, find the blogs, read them out and start practicing to know more and more...
